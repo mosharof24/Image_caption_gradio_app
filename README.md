@@ -15,7 +15,6 @@ This is a lightweight image captioning web app built using the SmolVLM-500M-Inst
 ###### 1. Clone this repository
 ```bash
 git clone https://github.com/mosharof24/Image_caption_gradio_app.git
-cd smolvlm-image-captioning
 ```
 ###### 2. Create and activate a virtual environment (optional but recommended)
 ```bash
