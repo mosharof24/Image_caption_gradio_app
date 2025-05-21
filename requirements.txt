@@ -1,0 +1,7 @@
+python==3.10.17
+gradio==5.30.0
+huggingface-hub==0.31.4
+torch==2.7.0+cu128
+torchaudio==2.7.0+cu128
+torchvision==0.22.0+cu128
+transformers==4.52.1
